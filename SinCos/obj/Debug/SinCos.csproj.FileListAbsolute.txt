@@ -1,0 +1,6 @@
+C:\Users\Студент\Desktop\SinCos\bin\Debug\SinCos.dll
+C:\Users\Студент\Desktop\SinCos\bin\Debug\SinCos.pdb
+C:\Users\Студент\Desktop\SinCos\obj\Debug\SinCos.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\SinCos\obj\Debug\SinCos.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\SinCos\obj\Debug\SinCos.dll
+C:\Users\Студент\Desktop\SinCos\obj\Debug\SinCos.pdb
